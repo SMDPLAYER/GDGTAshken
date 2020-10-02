@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Devfest App</string>
+    <string name="title_home">Home</string>
+
+    <string name="welcomeText">Welcome to GDG DevFest</string>
+    <string name="descText">DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building and learning about Google’s technologies. Each DevFest is inspired by and uniquely tailored to the needs of the developer community and region that hosts it.</string>
+    <string name="versionText">2020.0.0</string>
+
+
+    <string name="urlFacebook">https://www.facebook.com/SMD-1842562242454087</string>
+    <string name="urlTwitter">https://twitter.com</string>
+    <string name="urlLinkedin">https://www.linkedin.com/in/mukhriddin-siddikov-59b72419b/</string>
+    <string name="urlYoutube">https://youtube.com/</string>
+    <string name="urlMeetup">https://meetup.com/</string>
+    <string name="txt_email">smdplayer1999@gmail.com</string>
+    <string name="txt_subject">Need an App?</string>
+    <string name="txt_body">Just reply this email</string>
+    <string name="txt_github">https://github.com/gdgtashkent/GDG-DevFest-App-Hackathon/blob/master/App-Requirements.md</string>
+    <string name="choose_theme_text">Choose theme</string>
+    <string name="light_txt">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System default</string>
+
+</resources>
