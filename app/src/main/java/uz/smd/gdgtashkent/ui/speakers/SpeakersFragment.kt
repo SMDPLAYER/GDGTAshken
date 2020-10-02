@@ -51,7 +51,6 @@ class SpeakersFragment : Fragment() {
                 recyclerView.adapter = adapter
             }
 
-
         }
     }
 
