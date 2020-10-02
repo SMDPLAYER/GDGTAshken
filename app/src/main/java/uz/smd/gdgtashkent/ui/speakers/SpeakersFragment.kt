@@ -50,8 +50,7 @@ class SpeakersFragment : Fragment() {
                 val adapter = GeneralAdapter(mSpeakers, context)
                 recyclerView.adapter = adapter
             }
-
-
+            
 
 
         }
